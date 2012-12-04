@@ -1,0 +1,21 @@
+[2012-12-04 11-34-39] Doctrine\DBAL\DBALException: An exception occurred while executing 'SELECT t0.id AS id1, t0.test AS test2 FROM TestEntity t0':
+
+SQLSTATE[42S02]: Base table or view not found: 1146 Table 'just_test.testentity' doesn't exist in C:\www\doctrine-sandbox-nella\libs\Doctrine\DBAL\DBALException.php:47  @  cli: C:\www\doctrine-sandbox-nella\www\index.php  @@  exception-2012-12-04-11-34-39-d4f0d4649ad62758f3826b8cb6e95919.html
+[2012-12-04 12-33-45] Doctrine\DBAL\DBALException: An exception occurred while executing 'SELECT t0.id AS id1, t0.test AS test2 FROM TestEntity t0':
+
+SQLSTATE[42S02]: Base table or view not found: 1146 Table 'just_test.testentity' doesn't exist in C:\www\doctrine-sandbox-nella\libs\Doctrine\DBAL\DBALException.php:47  @  cli: C:\www\doctrine-sandbox-nella\www\index.php  @@  exception-2012-12-04-11-34-39-d4f0d4649ad62758f3826b8cb6e95919.html
+[2012-12-04 12-34-25] Doctrine\DBAL\DBALException: An exception occurred while executing 'SELECT t0.id AS id1, t0.test AS test2 FROM TestEntity t0':
+
+SQLSTATE[42S02]: Base table or view not found: 1146 Table 'just_test.testentity' doesn't exist in C:\www\doctrine-sandbox-nella\libs\Doctrine\DBAL\DBALException.php:47  @  cli: C:\www\doctrine-sandbox-nella\www\index.php  @@  exception-2012-12-04-11-34-39-d4f0d4649ad62758f3826b8cb6e95919.html
+[2012-12-04 12-40-42] Doctrine\DBAL\DBALException: An exception occurred while executing 'SELECT t0.id AS id1, t0.test AS test2 FROM TestEntity t0':
+
+SQLSTATE[42S02]: Base table or view not found: 1146 Table 'just_test.testentity' doesn't exist in C:\www\doctrine-sandbox-nella\libs\Doctrine\DBAL\DBALException.php:47  @  cli: C:\www\doctrine-sandbox-nella\www\index.php  @@  exception-2012-12-04-11-34-39-d4f0d4649ad62758f3826b8cb6e95919.html
+[2012-12-04 12-41-15] Doctrine\DBAL\DBALException: An exception occurred while executing 'SELECT t0.id AS id1, t0.test AS test2 FROM TestEntity t0':
+
+SQLSTATE[42S02]: Base table or view not found: 1146 Table 'just_test.testentity' doesn't exist in C:\www\doctrine-sandbox-nella\libs\Doctrine\DBAL\DBALException.php:47  @  cli: C:\www\doctrine-sandbox-nella\www\index.php  @@  exception-2012-12-04-11-34-39-d4f0d4649ad62758f3826b8cb6e95919.html
+[2012-12-04 12-43-18] Doctrine\DBAL\DBALException: An exception occurred while executing 'SELECT t0.id AS id1, t0.test AS test2 FROM TestEntity t0':
+
+SQLSTATE[42S02]: Base table or view not found: 1146 Table 'just_test.testentity' doesn't exist in C:\www\doctrine-sandbox-nella\libs\Doctrine\DBAL\DBALException.php:47  @  cli: C:\www\doctrine-sandbox-nella\www\index.php  @@  exception-2012-12-04-11-34-39-d4f0d4649ad62758f3826b8cb6e95919.html
+[2012-12-04 12-44-53] Doctrine\DBAL\DBALException: An exception occurred while executing 'SELECT t0.id AS id1, t0.test AS test2 FROM TestEntity t0':
+
+SQLSTATE[42S02]: Base table or view not found: 1146 Table 'just_test.testentity' doesn't exist in C:\www\doctrine-sandbox-nella\libs\Doctrine\DBAL\DBALException.php:47  @  cli: C:\www\doctrine-sandbox-nella\www\index.php  @@  exception-2012-12-04-11-34-39-d4f0d4649ad62758f3826b8cb6e95919.html
