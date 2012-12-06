@@ -30,6 +30,21 @@ common:
 
 
 	services:
+		newsRepository:
+			class: Doctrine\ORM\EntityRepository
+			factory: @doctrine.entityManager::getRepository('NewsEntity')
+
+		newsFacade:
+			class: NewsFacade
+			arguments: [@newsRepository]
+
+		categoryRepository:
+			class: Doctrine\ORM\EntityRepository
+			factory: @doctrine.entityManager::getRepository('CategoryEntity')
+
+		categoryFacade:
+			class: CategoryFacade
+			arguments: [@categoryRepository]
 
 
 	factories:
